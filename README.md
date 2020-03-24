@@ -14,6 +14,4 @@ Projeto responsivo com o framework de CSS Bulma
 ## Descrição
 Projeto simples, feito apenas para estudo de css e tags html5.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
