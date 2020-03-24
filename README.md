@@ -14,3 +14,7 @@ Projeto responsivo com o framework de CSS Bulma
 ## Descrição
 Projeto simples, feito apenas para estudo de css e tags html5.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0c1fa6b3ba2ef9d869f0d9c34befd516185f8ee1
